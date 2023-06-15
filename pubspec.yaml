@@ -1,0 +1,57 @@
+name: lanchonet
+description: Agilizando pra quem pede
+
+version: 1.0.0+1
+
+environment:
+  sdk: '>=2.18.4 <3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  firebase_core:
+  lottie: 
+  url_launcher: 
+  animated_splash_screen: 
+  firebase_database:
+  firebase_auth: 
+  firebase_storage:
+  firebase_messaging:
+  http:
+  email_validator:
+  awesome_card:
+  flutter_credit_card:
+  cpf_cnpj_validator:
+  multi_select_flutter:
+  image_picker:
+  brasil_fields:  
+  mercado_pago_mobile_checkout: 
+  cupertino_icons:
+  provider:
+  cloud_firestore: 
+  shared_preferences:
+  string_extensions: 
+  flutter_launcher_icons: 
+  push: 
+  flutter_local_notifications: ^9.2.0
+  timezone:
+  flutter_native_timezone:
+  search_cep:
+  excel:
+  path_provider:
+  syncfusion_flutter_xlsio:
+  flutter_keyboard_visibility:
+  encrypt: 
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: 
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/images/
+    - assets/icons/
+    - assets/animation/

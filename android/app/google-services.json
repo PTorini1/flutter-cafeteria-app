@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "671835911052",
+    "project_id": "lanchonet-fc5a4",
+    "storage_bucket": "lanchonet-fc5a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671835911052:android:141bc6d41dbbd50d6ddca9",
+        "android_client_info": {
+          "package_name": "com.example.lanchonet"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671835911052-vcdkmr59oi6jm688uloogmtr6fuc496u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Ag_JyBsnHWbbY_Mcn1ErTd081cd2GLQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671835911052-vcdkmr59oi6jm688uloogmtr6fuc496u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
