@@ -27,7 +27,7 @@ Developed with: @LuanPereira2005, @zMSLz, @Hyzark<br><br>
   <img src="https://cdn.discordapp.com/attachments/1024051503339683994/1118944882178932807/9a2557cb-76bc-4231-984c-d79e575840fc.png" height="400" width="200"> 
 </div>
 <br><br>
-If you want to run this project in your machine you can follow the following steps:<br>
+If you want to run this project in your machine you can follow the steps below:<br>
 ㅤ• In your machine download Flutter SDK <br>
 ㅤ• Clone the project using the command: git clone https://github.com/PTorini1/lanchonet.git <br>
 ㅤ• Run 'flutter pub get' and 'flutter run' or run 'flutter build apk' if you want to run it in your Android device<br><br>
