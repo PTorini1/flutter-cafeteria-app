@@ -2,7 +2,7 @@
 This is my final project at SENAI Manuel Garcia Filho. <br>
 As a group, we developed an APP called Lanchonet wich aim is to help the school cafeteria.
 They have told us about 5 problems they had: <br>
- ㅤ• No posssiblity of people buying their products online; <br>
+ ㅤ• No possiblity of people buying their products online; <br>
  ㅤ• Manual stock control; <br>
  ㅤ• People trying to cheat PIX payment method; <br>
  ㅤ• No efficient method to inform people when their order is done; <br>
