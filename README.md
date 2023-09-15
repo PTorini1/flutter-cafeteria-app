@@ -1,6 +1,6 @@
 ## Lanchonet
 This is my final project at SENAI Manuel Garcia Filho. <br>
-As a group, we developed an APP called Lanchonet wich aim is to help the school cafeteria.
+As a group, we developed an APP called Lanchonet which aim is to help the school cafeteria.
 They have told us about 5 problems they had: <br>
  ㅤ• No possiblity of people buying their products online; <br>
  ㅤ• Manual stock control; <br>
