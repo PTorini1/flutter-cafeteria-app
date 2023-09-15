@@ -9,7 +9,7 @@ They have told us about 5 problems they had: <br>
  ㅤ• Long queues;
  
  To fix these problems, we used technologies such as Flutter and Dart to develop the APP, Firebase to save data and Java with Spring Boot to develop a payment API.<br><br>
-If you want to know more about Lanchonet, you can contact me using Linkedin or email wich you'll find in my github profile page. I'll let some pictures here to show the final results and the instructions to download the project. <br>
+If you want to know more about Lanchonet, you can contact me using Linkedin or email which you'll find in my github profile page. I'll let some pictures here to show the final results and the instructions to download the project. <br>
 Developed with: @LuanPereira2005, @zMSLz, @Hyzark<br><br>
 
 <div style="display:inline-flex">
