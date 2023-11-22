@@ -29,8 +29,8 @@ Developed with: @LuanPereira2005, @zMSLz, @Hyzark<br><br>
 <br><br>
 If you want to run this project in your machine you can follow the steps below:<br>
 ㅤ• In your machine download Flutter SDK <br>
-ㅤ• Clone the project using the command: `git clone https://github.com/PTorini1/lanchonet.git` <br>
-ㅤ• Run `flutter pub get` and `flutter run` or run `flutter build apk` if you want to run it in your Android device<br><br>
+ㅤ• Clone the project using the command: git clone https://github.com/PTorini1/lanchonet.git <br>
+ㅤ• Run flutter pub get and flutter run or run flutter build apk if you want to run it in your Android device<br><br>
 
 We also developed an website to explain more about the project: <a href="http://lanchonet10.000webhostapp.com/" target="_blank">http://lanchonet10.000webhostapp.com/</a>
 
