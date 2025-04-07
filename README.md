@@ -11,7 +11,7 @@ They have told us about 5 problems they had: <br>
  To fix these problems, we used technologies such as Flutter and Dart to develop the APP, Firebase to save data and Java with Spring Boot to develop a payment API.<br><br>
 If you want to know more about Lanchonet, you can contact me using Linkedin or email which you'll find in my github profile page. I'll let some pictures here to show the final results and the instructions to download the project. <br>
 Developed with: @LuanPereira2005, @zMSLz, @Hyzark<br><br>
-
+<!--
 <div style="display:inline-flex">
   <img src="https://media.discordapp.net/attachments/1024051503339683994/1118939770253484172/09744b9a-72df-47f0-b586-b94b25ae8399.png?ex=67da479e&is=67d8f61e&hm=8d9ee69955626a8e6f873b2c2c4d6d29349ecad6ed8eec946bc2e0f3feb7ea21&=&format=webp&quality=lossless" height="400" width="200"> 
   <img src="https://media.discordapp.net/attachments/1024051503339683994/1118939799538110474/ca1c58b7-394e-45a1-81de-a5ca80ed1039.png?ex=67da47a5&is=67d8f625&hm=e641735dd3a6ebb3d609eff42c4b127f3c94c5129dd67b80b0c64ffc4c3e9f5c&=&format=webp&quality=lossless" height="400" width="200"> 
@@ -26,6 +26,7 @@ Developed with: @LuanPereira2005, @zMSLz, @Hyzark<br><br>
   <img src="https://media.discordapp.net/attachments/1024051503339683994/1118944882178932807/9a2557cb-76bc-4231-984c-d79e575840fc.png?ex=67da4c60&is=67d8fae0&hm=56907b77d8ddd25b6817b75cb5092ad408ba317274e55545e742dc7d92b21948&=&format=webp&quality=lossless" height="400" width="200"> 
   <img src="https://media.discordapp.net/attachments/1024051503339683994/1118944392481341551/9f392c2c-95b3-44a8-a139-cca9d0d000fb.png?ex=67da4bec&is=67d8fa6c&hm=a2365757493839325551c6e190306895931d40c0499fb6bcef2b1535c155c530&=&format=webp&quality=lossless" height="400" width="200"> 
 </div>
+-->
 <br><br>
 If you want to run this project in your machine you can follow the steps below:<br>
 ㅤ• In your machine download Flutter SDK <br>
